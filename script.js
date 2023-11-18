@@ -73,7 +73,7 @@ function uniqueProfessions() {
   console.log(uniqueProfessionsArray);
 }
 
-// 8. Sort by Age
+// 8. Sort by Age f
 function sortByAge() {
   data.sort((a, b) => a.age - b.age);
 
